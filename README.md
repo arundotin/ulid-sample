@@ -43,7 +43,7 @@ A typical ULID looks like:
 The timestamp is placed at the beginning of the identifier.
 
 ```text
-01M20Q1NT2 | 8QHEX86XBJ3CBZ3P
+01M20T1NT2 | 8QHEX86XBJ3CBZ3P
 ^^^^^^^^^^   ^^^^^^^^^^^^^^^^
 timestamp     randomness
  10 chars       16 chars
